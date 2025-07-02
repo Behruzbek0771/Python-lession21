@@ -1,0 +1,1 @@
+ Ismi 5 harfdan uzun bo'lgan talabalar['Dilnoza', 'Kamron', 'Bekzod', 'Alisher', 'Bunyod']
