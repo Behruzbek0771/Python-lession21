@@ -4,7 +4,7 @@ with open("Input/numbers.txt") as f1:
 result1 = list(filter(lambda x: len(x) == 1, a))
 result2 = list(filter(lambda x: len(x) == 2, a))
 result3 = list(filter(lambda x: len(x) == 3, a))
-# 3 xonaligacha xisoblaydi 
+# 3 xonaligacha xisoblaydi
 
 with open("Output/output09.txt", "w") as f2:  
     f2.write(str(f"1 xonali sonlar: {len(result1)} ta, "))
